@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\src\\Password Manager Offline\\PacresPassword\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|c:\\src\\password manager offline\\pacrespassword\\passwordvault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|solutionrelative:passwordvault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|c:\\src\\password manager offline\\pacrespassword\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|solutionrelative:usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|c:\\src\\password manager offline\\pacrespassword\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|solutionrelative:manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|c:\\src\\password manager offline\\pacrespassword\\idisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|solutionrelative:idisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|c:\\src\\password manager offline\\pacrespassword\\masterpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|solutionrelative:masterpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|c:\\src\\password manager offline\\pacrespassword\\myspinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|solutionrelative:myspinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|c:\\src\\password manager offline\\pacrespassword\\pacrespassword.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|solutionrelative:pacrespassword.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|c:\\src\\password manager offline\\pacrespassword\\entrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|solutionrelative:entrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|c:\\src\\password manager offline\\pacrespassword\\titlescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|solutionrelative:titlescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jcnru\\AppData\\Local\\Temp\\.vsdbgsrc\\706ba78372990bbf8e867be84412576e8ea595b049808813df9a686dbcfef733\\MarkupParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|c:\\src\\password manager offline\\pacrespassword\\pacrespassword.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6F72E134-07BA-43D7-B835-73E5C5958032}|PacresPassword.csproj|solutionrelative:pacrespassword.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageUsers.cs",
+              "DocumentMoniker": "C:\\src\\Password Manager Offline\\PacresPassword\\ManageUsers.cs",
+              "RelativeDocumentMoniker": "ManageUsers.cs",
+              "ToolTip": "C:\\src\\Password Manager Offline\\PacresPassword\\ManageUsers.cs",
+              "RelativeToolTip": "ManageUsers.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAuwIMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:00:15.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PacresPassword.csproj",
+              "DocumentMoniker": "C:\\src\\Password Manager Offline\\PacresPassword\\PacresPassword.csproj",
+              "RelativeDocumentMoniker": "PacresPassword.csproj",
+              "ToolTip": "C:\\src\\Password Manager Offline\\PacresPassword\\PacresPassword.csproj",
+              "RelativeToolTip": "PacresPassword.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T09:30:34.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntryPoint.cs",
+              "DocumentMoniker": "C:\\src\\Password Manager Offline\\PacresPassword\\EntryPoint.cs",
+              "RelativeDocumentMoniker": "EntryPoint.cs",
+              "ToolTip": "C:\\src\\Password Manager Offline\\PacresPassword\\EntryPoint.cs",
+              "RelativeToolTip": "EntryPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:41:13.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "iDisplay.cs",
+              "DocumentMoniker": "C:\\src\\Password Manager Offline\\PacresPassword\\iDisplay.cs",
+              "RelativeDocumentMoniker": "iDisplay.cs",
+              "ToolTip": "C:\\src\\Password Manager Offline\\PacresPassword\\iDisplay.cs",
+              "RelativeToolTip": "iDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:48:06.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MySpinner.cs",
+              "DocumentMoniker": "C:\\src\\Password Manager Offline\\PacresPassword\\MySpinner.cs",
+              "RelativeDocumentMoniker": "MySpinner.cs",
+              "ToolTip": "C:\\src\\Password Manager Offline\\PacresPassword\\MySpinner.cs",
+              "RelativeToolTip": "MySpinner.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:11:36.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordVault.cs",
+              "DocumentMoniker": "C:\\src\\Password Manager Offline\\PacresPassword\\PasswordVault.cs",
+              "RelativeDocumentMoniker": "PasswordVault.cs",
+              "ToolTip": "C:\\src\\Password Manager Offline\\PacresPassword\\PasswordVault.cs",
+              "RelativeToolTip": "PasswordVault.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAQwAMBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:42:58.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "userMenu.cs",
+              "DocumentMoniker": "C:\\src\\Password Manager Offline\\PacresPassword\\userMenu.cs",
+              "RelativeDocumentMoniker": "userMenu.cs",
+              "ToolTip": "C:\\src\\Password Manager Offline\\PacresPassword\\userMenu.cs",
+              "RelativeToolTip": "userMenu.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:34:26.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MasterPassword.cs",
+              "DocumentMoniker": "C:\\src\\Password Manager Offline\\PacresPassword\\MasterPassword.cs",
+              "RelativeDocumentMoniker": "MasterPassword.cs",
+              "ToolTip": "C:\\src\\Password Manager Offline\\PacresPassword\\MasterPassword.cs",
+              "RelativeToolTip": "MasterPassword.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:13:22.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TitleScreen.cs",
+              "DocumentMoniker": "C:\\src\\Password Manager Offline\\PacresPassword\\TitleScreen.cs",
+              "RelativeDocumentMoniker": "TitleScreen.cs",
+              "ToolTip": "C:\\src\\Password Manager Offline\\PacresPassword\\TitleScreen.cs",
+              "RelativeToolTip": "TitleScreen.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:49:46.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MarkupParser.cs",
+              "DocumentMoniker": "C:\\Users\\jcnru\\AppData\\Local\\Temp\\.vsdbgsrc\\706ba78372990bbf8e867be84412576e8ea595b049808813df9a686dbcfef733\\MarkupParser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\jcnru\\AppData\\Local\\Temp\\.vsdbgsrc\\706ba78372990bbf8e867be84412576e8ea595b049808813df9a686dbcfef733\\MarkupParser.cs",
+              "ToolTip": "C:\\Users\\jcnru\\AppData\\Local\\Temp\\.vsdbgsrc\\706ba78372990bbf8e867be84412576e8ea595b049808813df9a686dbcfef733\\MarkupParser.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\jcnru\\AppData\\Local\\Temp\\.vsdbgsrc\\706ba78372990bbf8e867be84412576e8ea595b049808813df9a686dbcfef733\\MarkupParser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:07:20.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PacresPassword",
+              "DocumentMoniker": "C:\\src\\Password Manager Offline\\PacresPassword\\PacresPassword.csproj",
+              "RelativeDocumentMoniker": "PacresPassword.csproj",
+              "ToolTip": "C:\\src\\Password Manager Offline\\PacresPassword\\PacresPassword.csproj",
+              "RelativeToolTip": "PacresPassword.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T09:30:48.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
